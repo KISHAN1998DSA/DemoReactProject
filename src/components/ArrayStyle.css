@@ -1,0 +1,11 @@
+.primary{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.font-xl{
+    font-size: 20px;
+    
+}
+.error{
+    color: red;
+}
